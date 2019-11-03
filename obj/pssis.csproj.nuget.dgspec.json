@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/xedni/Documents/projects/csharp/pssis/pssis.csproj": {}
+  },
+  "projects": {
+    "/home/xedni/Documents/projects/csharp/pssis/pssis.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/xedni/Documents/projects/csharp/pssis/pssis.csproj",
+        "projectName": "pssis",
+        "projectPath": "/home/xedni/Documents/projects/csharp/pssis/pssis.csproj",
+        "packagesPath": "/home/xedni/.nuget/packages/",
+        "outputPath": "/home/xedni/Documents/projects/csharp/pssis/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/xedni/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "newtonsoft.json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

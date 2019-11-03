@@ -1,0 +1,11 @@
+/home/xedni/Documents/projects/csharp/pssis/bin/Debug/netcoreapp2.2/pssis.deps.json
+/home/xedni/Documents/projects/csharp/pssis/bin/Debug/netcoreapp2.2/pssis.runtimeconfig.json
+/home/xedni/Documents/projects/csharp/pssis/bin/Debug/netcoreapp2.2/pssis.runtimeconfig.dev.json
+/home/xedni/Documents/projects/csharp/pssis/bin/Debug/netcoreapp2.2/pssis.dll
+/home/xedni/Documents/projects/csharp/pssis/bin/Debug/netcoreapp2.2/pssis.pdb
+/home/xedni/Documents/projects/csharp/pssis/obj/Debug/netcoreapp2.2/pssis.csprojAssemblyReference.cache
+/home/xedni/Documents/projects/csharp/pssis/obj/Debug/netcoreapp2.2/pssis.csproj.CoreCompileInputs.cache
+/home/xedni/Documents/projects/csharp/pssis/obj/Debug/netcoreapp2.2/pssis.AssemblyInfoInputs.cache
+/home/xedni/Documents/projects/csharp/pssis/obj/Debug/netcoreapp2.2/pssis.AssemblyInfo.cs
+/home/xedni/Documents/projects/csharp/pssis/obj/Debug/netcoreapp2.2/pssis.dll
+/home/xedni/Documents/projects/csharp/pssis/obj/Debug/netcoreapp2.2/pssis.pdb
